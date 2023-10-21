@@ -24,7 +24,7 @@ int main() {
         ch+=shift;
       }
       inputString[i] = ch;
-      printf("Symbol - %c, code - %d.\n", ch,ch);
+      //printf("Symbol - %c, code - %d.\n", ch,ch);
     };
     printf("%s", inputString);
     return 0;
